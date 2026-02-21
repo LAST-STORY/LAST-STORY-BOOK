@@ -1,0 +1,27 @@
+{
+  "name": "LAST STORY",
+  "short_name": "LAST STORY",
+  "description": "আপনার বইয়ের তালিকা সংরক্ষণ করার ওয়েবসাইট",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6b46c1",
+  "orientation": "portrait",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["books", "education", "lifestyle"]
+}
