@@ -121,12 +121,12 @@ const bookData = [
 
 	
 	//নিক পিরোগ
-  	{ "title": "3:00 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
-  	{ "title": "3:10 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
-  	{ "title": "3:21 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
-  	{ "title": "3:34 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
-  	{ "title": "3:46 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
-  	{ "title": "3:53 a.m.", "genre": "গোয়েন্দা", "Write": "নিক পিরোগ" },
+  	{ title: "3:00 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
+  	{ title: "3:10 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
+  	{ title: "3:21 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
+  	{ title: "3:34 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
+  	{ title: "3:46 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
+  	{ title: "3:53 a.m.", genre: "গোয়েন্দা", Write: "নিক পিরোগ" },
 	
 
 
@@ -166,6 +166,7 @@ const bookData = [
 
 	
 ];
+
 
 
 
