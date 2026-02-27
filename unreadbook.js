@@ -7,8 +7,6 @@ const unreadBookData = [
     { title: "মিসির আলি অমনিবাস-3", genre: "মিসির আলি", writer: "হুমায়ূন আহমেদ" },
 
 
-	
-	{ title: "আসচরাচর", genre: "প্যারাসাইকোলজি", writer: "মাশুদুল হক" },
 	{ title: "আসচরাচর-২", genre: "প্যারাসাইকোলজি", writer: "মাশুদুল হক" },
 
 	
@@ -47,6 +45,7 @@ const unreadBookData = [
 
     
 ];
+
 
 
 
