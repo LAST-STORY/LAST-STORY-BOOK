@@ -352,7 +352,7 @@ const preload = () => {
   
           this.particles = new THREE.Points( geoParticles, material );
           this.scene.add( this.particles );
-  ``
+  
           this.geometryCopy = new THREE.BufferGeometry();
           this.geometryCopy.copy( this.particles.geometry );
           

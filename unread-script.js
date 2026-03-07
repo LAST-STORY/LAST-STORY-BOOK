@@ -1,5 +1,3 @@
-
-
 // Get DOM elements
 const unreadBookGrid = document.getElementById('unreadBookGrid');
 const unreadBookCount = document.getElementById('unreadBookCount');
@@ -47,6 +45,10 @@ function displayUnreadBooks(booksToShow = unreadBookData) {
         return;
     }
 
+    // Show grid and hide no-books message
+    unreadBookGrid.style.display = 'grid';
+    noUnreadBooks.style.display = 'none';
+
     // Update book count
     unreadBookCount.textContent = booksToShow.length;
 
@@ -80,15 +82,7 @@ function createUnreadBookCard(book, serialNumber) {
             অপঠিত
         </div>
     `;
-    
-    // Add click effect
-    card.addEventListener('click', () => {
-        card.style.transform = 'scale(0.95)';
-        setTimeout(() => {
-            card.style.transform = '';
-        }, 150);
-    });
-    
+
     return card;
 }
 
