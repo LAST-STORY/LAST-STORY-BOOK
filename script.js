@@ -289,21 +289,6 @@ function refreshFilters() {
     populateGenreFilter();
 }
 
-// Demo function to add sample books
-function addSampleBooks() {
-    const sampleBooks = [
-        { title: "চাঁদের পাহাড়", author: "বিভূতিভূষণ বন্দ্যোপাধ্যায়", genre: "অ্যাডভেঞ্চার" },
-        { title: "শেষের কবিতা", author: "রবীন্দ্রনাথ ঠাকুর", genre: "কবিতা" },
-        { title: "মিসির আলি", author: "হুমায়ূন আহমেদ", genre: "রহস্য" }
-    ];
-    
-    sampleBooks.forEach(book => {
-        addNewBook(book.title, book.author, book.genre);
-    });
-    
-    console.log("ডেমো বইগুলি যোগ করা হয়েছে!");
-}
-
 // Make functions globally accessible for console use
 window.addNewBook = addNewBook;
 window.refreshFilters = refreshFilters;
