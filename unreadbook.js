@@ -43,9 +43,10 @@ const unreadBookData = [
 
 
 
-
+	{ title: "কাগা সিরিজ", genre: "গ্যালিলিও সিরিজ", writer: "কইগো হিগাসিনো" },
 
     
 ];
+
 
 
