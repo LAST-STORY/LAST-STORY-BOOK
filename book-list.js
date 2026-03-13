@@ -95,12 +95,12 @@ const bookData = [
     { title: "হে আমার প্রিয়তমা", genre: "ইসলামিক রোমান্টিক", writer: "হুসাইন বিন ওয়ালি উল্লাহ" },
 
     // নিক পিরোগ
-    { title: "3:00 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
-    { title: "3:10 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
-    { title: "3:21 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
-    { title: "3:34 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
-    { title: "3:46 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
-    { title: "3:53 a.m.", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:00am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:10am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:21am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:34am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:46am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
+    { title: "3:53am", genre: "গোয়েন্দা", writer: "নিক পিরোগ" },
 
     // মাশুদুল হক
     { title: "অসচরাচর", genre: "প্যারাসাইকোলজি", writer: "মাশুদুল হক" },
@@ -135,6 +135,7 @@ const bookData = [
 
     
 ];
+
 
 
 
