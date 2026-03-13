@@ -5,7 +5,6 @@ const unreadBookData = [
 
 	
     // নিক পিরোগ
-    { "title": "3:00 a.m.", genre: "গোয়েন্দা", "writer": "নিক পিরোগ" },
     { "title": "3:10 a.m.", genre: "গোয়েন্দা", "writer": "নিক পিরোগ" },
     { "title": "3:21 a.m.", genre: "গোয়েন্দা", "writer": "নিক পিরোগ" },
     { "title": "3:34 a.m.", genre: "গোয়েন্দা", "writer": "নিক পিরোগ" },
@@ -46,6 +45,7 @@ const unreadBookData = [
 
 	
 ];
+
 
 
 
